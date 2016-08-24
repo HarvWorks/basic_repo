@@ -3,3 +3,8 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/HarvWorks/basic_repo.git
 git push -u origin master
+git add README.md
+git add basic_repo.txt
+git add CSS\ Boxes\ 2.html
+git add style2.css
+git commit -m "Added some test files"
